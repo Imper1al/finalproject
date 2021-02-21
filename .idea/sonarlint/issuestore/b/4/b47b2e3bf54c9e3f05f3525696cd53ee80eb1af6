@@ -1,0 +1,36 @@
+
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¥İ£ ÿÿÿÿÿ8¡û»Ûù.
+~
+java:S19894"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(äô„8ŠÙÍºø.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉŞ—µûÿÿÿÿ8İï¹Ùù.
+{
+java:S1989/"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(†³ÿÿÿÿÿ8´½Ô¸ø.
+p
+java:S1989g"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÕåÉ’8™÷×Úù.
+p
+java:S1989Q"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8©âæÙù.
+i
+java:S1192;"GDefine a constant instead of duplicating this literal "driver" 5 times.(âßßÊùÿÿÿÿ8ÂàÕÚù.
+u
+java:S1989["SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ù—ŠÂüÿÿÿÿ8™÷×Úù.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í£‰
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(®ñ—øÿÿÿÿ8å—îñö.
+{
+java:S1989b"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(›ğÖæúÿÿÿÿ8‚æ²Ûù.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(©ó’8È÷èÙù.
+u
+java:S1989X"SHandle the following exception that could be thrown by "sendRedirect": IOException.(Ù—ŠÂüÿÿÿÿ8ä‹ÊÙù.
+u
+java:S1989^"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ñ›’l8ûô¼Ùù.
+p
+java:S1989,"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8´½Ô¸ø.
+v
+java:S1989_"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¶êº…8ûô¼Ùù.
+{
+java:S1989`"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ï¾ôúÿÿÿÿ8«ŞÁÙù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(§ ÿ€ùÿÿÿÿ8ƒğéÙù.

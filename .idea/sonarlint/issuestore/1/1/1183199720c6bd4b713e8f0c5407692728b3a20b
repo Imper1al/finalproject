@@ -1,0 +1,16 @@
+
+c
+java:S1192""FDefine a constant instead of duplicating this literal "phone" 3 times.(ùÈ„Ï8ƒš‹Æô.
+p
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8ÌÇ±šø.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡»³Õşÿÿÿÿ
+S
+java:S2696)"6Make the enclosing method "static" or remove this set.(Œ¿¾À8ƒãÛçõ.
+X
+java:S2696+"6Make the enclosing method "static" or remove this set.(ßê‰Âıÿÿÿÿ8ƒãÛçõ.
+P
+java:S1161":Add the "@Override" annotation above this method signature(­‘úå
+u
+java:S1989-"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ãŠå…ùÿÿÿÿ8¤çÏô.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ĞªÜíúÿÿÿÿ8ÆÙêÅô.

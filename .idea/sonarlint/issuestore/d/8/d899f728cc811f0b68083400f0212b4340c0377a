@@ -1,0 +1,13 @@
+
+v
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ç¤ñı8äÿ‹Óú.
+k
+java:S1192'"IDefine a constant instead of duplicating this literal "pageSize" 3 times.(§„Íüÿÿÿÿ8•ƒ„Ôú.
+p
+java:S1989#"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8•ƒ„Ôú.
+{
+java:S1989)"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ç¸¤èıÿÿÿÿ8•ƒ„Ôú.
+ƒ
+java:S19896"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ä—±Óıÿÿÿÿ8•ƒ„Ôú.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¾ıİ8•ƒ„Ôú.

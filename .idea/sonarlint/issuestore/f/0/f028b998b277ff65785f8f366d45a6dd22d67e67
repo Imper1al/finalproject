@@ -1,0 +1,26 @@
+
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(§ ÿ€ùÿÿÿÿ8Æê”ˆù.
+p
+java:S1989,"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8Æê”ˆù.
+{
+java:S1989<"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¦æÝüÿÿÿÿ8»€»‰ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¦ëò’üÿÿÿÿ8Ý‰‰ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‰ÐÑÏÿÿÿÿÿ8Ý‰‰ù.
+{
+java:S1989D"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ÏŽ¾ôúÿÿÿÿ8¿Çº‰ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¥Ý£ ÿÿÿÿÿ8Æê”ˆù.
+p
+java:S1989J"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÎÃ¶ó8¯“’‰ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÐªÜíúÿÿÿÿ8Æê”ˆù.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø´Øœþÿÿÿÿ
+ƒ
+java:S19895"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(•ÈÆ‘ýÿÿÿÿ8Ý‰‰ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ùÉ¬°ùÿÿÿÿ8Ý‰‰ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(®ñ—øÿÿÿÿ8§¯–ˆù.

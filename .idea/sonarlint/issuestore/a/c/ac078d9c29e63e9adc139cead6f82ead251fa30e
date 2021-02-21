@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΉΪ
+p
+java:S1989$"SHandle the following exception that could be thrown by "sendRedirect": IOException.(όΨΖ8ν·ψ.
+u
+java:S1989+"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ι¤48λεχΠϊ.
+|
+java:S19898"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Γ…πÿÿÿÿÿ
+v
+java:S1989,"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ό®Ρ–8λεχΠϊ.

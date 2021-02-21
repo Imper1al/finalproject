@@ -1,0 +1,10 @@
+
+p
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8Ó†¨šø.
+{
+java:S1989#"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(©Ë¦ÿÿÿÿÿ8¼ú¨šø.
+u
+java:S1989,"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ßœÒêÿÿÿÿÿ8¼ú¨šø.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í£‰
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(§ ÿ€ùÿÿÿÿ8ØêÑÆ÷.

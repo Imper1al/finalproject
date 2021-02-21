@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í£‰
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(²ú¹›8À¨ç±ù.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(©ó’8åğå±ù.
+p
+java:S1989#"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8µİé±ù.
+}
+java:S1989)"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(ˆ¡º8´ì±ù.

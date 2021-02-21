@@ -1,0 +1,6 @@
+2021-02-20 16:51:52 [ERROR] com.finalproject.bestcar.daoIml.UserDaoIml.insertUser(UserDaoIml.java:43) - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-20 18:50:09 [INFO ] com.finalproject.bestcar.servlet.general.ErrorServlet.doGet(ErrorServlet.java:27) - An attempt to enter an inaccessible page
+2021-02-20 18:50:29 [INFO ] com.finalproject.bestcar.servlet.general.ErrorServlet.doGet(ErrorServlet.java:27) - An attempt to enter an inaccessible page
+2021-02-21 13:15:34 [ERROR] com.finalproject.bestcar.daoIml.UserDaoIml.insertUser(UserDaoIml.java:43) - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-21 13:21:56 [ERROR] com.finalproject.bestcar.daoIml.UserDaoIml.insertUser(UserDaoIml.java:43) - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-21 13:25:04 [ERROR] com.finalproject.bestcar.daoIml.UserDaoIml.insertUser(UserDaoIml.java:43) - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null

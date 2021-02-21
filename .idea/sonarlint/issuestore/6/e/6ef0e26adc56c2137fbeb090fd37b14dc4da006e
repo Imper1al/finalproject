@@ -1,0 +1,22 @@
+
+o
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(üª¼í8ÏĞ±ù.
+u
+java:S1989B"SHandle the following exception that could be thrown by "sendRedirect": IOException.(äÿÓüøÿÿÿÿ8ºü©±ù.
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(©ó’8›¼—±ù.
+v
+java:S1989/"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(†Ì8îÿÍ³ù.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø´Øœşÿÿÿÿ
+p
+java:S1989'"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8ìÒ˜±ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉŞ—µûÿÿÿÿ8ëŠÍ±ù.
+{
+java:S1989+"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ø›éÿÿÿÿÿ8şåÒ±ù.
+{
+java:S19890"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¦æİüÿÿÿÿ8ÇÇŸ±ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(®ñ—øÿÿÿÿ8Ğ¶áÛù.
+{
+java:S1989)"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Ï¾ôúÿÿÿÿ8ĞÙâÛù.

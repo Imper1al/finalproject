@@ -1,0 +1,27 @@
+
+l
+java:S1192"ODefine a constant instead of duplicating this literal "SELECT * FROM " 8 times.(øÈ¿Ê8¡¼Æ÷.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "UPDATE " 7 times.(™®¹‰8¡¼Æ÷.
+g
+java:S1192"JDefine a constant instead of duplicating this literal "=? WHERE " 6 times.(™®¹‰8¡¼Æ÷.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "=? AND " 3 times.(“İ—òûÿÿÿÿ8ÂñÆÖù.
+c
+java:S1192"FDefine a constant instead of duplicating this literal " SET " 7 times.(™®¹‰8¡¼Æ÷.
+j
+java:S1192"HDefine a constant instead of duplicating this literal "SELECT " 4 times.(È”ÎŒûÿÿÿÿ8¡¼Æ÷.
+f
+java:S1192"IDefine a constant instead of duplicating this literal " WHERE " 19 times.(øÈ¿Ê8¡¼Æ÷.
+o
+java:S1192"MDefine a constant instead of duplicating this literal "INSERT INTO " 6 times.(ø¹‰œıÿÿÿÿ8¡¼Æ÷.
+o
+java:S1192"MDefine a constant instead of duplicating this literal "DELETE FROM " 3 times.(êñˆ•ûÿÿÿÿ8Ÿøë°ù.
+x
+java:S1192
+"VDefine a constant instead of duplicating this literal "SELECT COUNT(*) FROM " 5 times.(ğú†Áùÿÿÿÿ8¡¼Æ÷.
+i
+java:S1192"GDefine a constant instead of duplicating this literal " FROM " 4 times.(È”ÎŒûÿÿÿÿ8¡¼Æ÷.
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™İ¼âøÿÿÿÿ8¡¼Æ÷.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(”«¬«8¡¼Æ÷.

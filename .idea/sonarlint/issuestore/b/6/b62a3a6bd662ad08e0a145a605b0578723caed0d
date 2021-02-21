@@ -1,0 +1,11 @@
+
+c
+java:S1192$"FDefine a constant instead of duplicating this literal "phone" 3 times.(ùÈ„Ï8¢„®†ô.
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¥Ý£ ÿÿÿÿÿ
+s
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÐªÜíúÿÿÿÿ
+w
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(Þ‹ Ö
+z
+java:S1989."_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(—ôÖ¢øÿÿÿÿ

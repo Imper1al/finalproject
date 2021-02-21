@@ -1,0 +1,22 @@
+
+u
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(©ó’8£Èî±ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ĞªÜíúÿÿÿÿ8Ú ßÖù.
+X
+java:S26961"6Make the enclosing method "static" or remove this set.( ãğÚşÿÿÿÿ8‰Ó¨×ù.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í£‰
+p
+java:S1989&"SHandle the following exception that could be thrown by "sendRedirect": IOException.(üØÆš8ö¨ğ±ù.
+{
+java:S1989*"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(öä™ãşÿÿÿÿ8Ÿ–áÖù.
+v
+java:S1989("YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ËÚ¸»8Ğ¼ó±ù.
+z
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ÉŞ—µûÿÿÿÿ8Ï¯Ö³ù.
+p
+java:S19893"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ÄŸıÒ8çö±ù.
+{
+java:S1989)"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¦æİüÿÿÿÿ8¢æßÖù.
+v
+java:S1989+"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(Î¶ô8ÆØÚ³ù.

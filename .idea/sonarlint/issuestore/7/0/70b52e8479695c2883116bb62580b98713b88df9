@@ -1,0 +1,8 @@
+
+o
+java:S1989"SHandle the following exception that could be thrown by "sendRedirect": IOException.(ϋ΅Ύ)8με™ψ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­χ
+C
+java:S1170"!Make this final field static too.(ΘƒΠςϊÿÿÿÿ8νεΟ™ψ.
+ƒ
+java:S1989"aHandle the following exceptions that could be thrown by "forward": ServletException, IOException.(²΄“¤ύÿÿÿÿ8ηρό™ψ.

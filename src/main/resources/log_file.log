@@ -1,0 +1,471 @@
+2021-02-21 13:38:14 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-21 13:45:04 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-21 13:46:10 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-21 15:32:31 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Cannot invoke "java.sql.Connection.prepareStatement(String)" because "connection" is null
+2021-02-21 15:40:54 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:41:26 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:46:16 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:46:43 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:51:08 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:51:28 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 15:51:29 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:55:41 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 15:55:41 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:58:04 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 15:58:05 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 15:59:00 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 15:59:00 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:15:23 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:15:23 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:20:46 ERROR UserDaoIml:68 - INSERT MODERATOR EXCEPTION: Column 'role' cannot be null
+2021-02-21 16:20:46 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:20:46 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:29:22 ERROR UserDaoIml:68 - INSERT MODERATOR EXCEPTION: Column 'role' cannot be null
+2021-02-21 16:29:22 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:30:44 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:30:44 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:30:46 ERROR UserDaoIml:68 - INSERT MODERATOR EXCEPTION: Duplicate entry '000001111' for key 'user.user_phone_uindex'
+2021-02-21 16:30:46 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:30:46 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:30:57 ERROR UserDaoIml:68 - INSERT MODERATOR EXCEPTION: Duplicate entry '000001111' for key 'user.user_phone_uindex'
+2021-02-21 16:30:57 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:30:57 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:32:20 ERROR UserDaoIml:68 - INSERT MODERATOR EXCEPTION: Duplicate entry '000001111' for key 'user.user_phone_uindex'
+2021-02-21 16:32:20 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:32:20 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:36:59 ERROR UserDaoIml:68 - INSERT MODERATOR EXCEPTION: Duplicate entry '000001111' for key 'user.user_phone_uindex'
+2021-02-21 16:37:00 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 16:37:00 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:39:57 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:40:47 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:41:20 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:42:35 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:43:02 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 16:43:59 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:09:33 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:12:17 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:14:18 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:14:18 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:31:48 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:31:48 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:33:56 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 17:33:56 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:33:56 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:33:56 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 17:33:56 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:33:56 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 17:35:16 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 17:35:16 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:35:16 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:35:16 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 17:35:16 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:35:16 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 17:36:52 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:36:52 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:36:52 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 17:36:53 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:36:53 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:36:53 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`passport`, CONSTRAINT `passport_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 17:36:53 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:36:53 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 17:36:53 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:36:53 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 17:37:23 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:37:23 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:39:41 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:39:41 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:48:32 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:48:33 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 17:50:47 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 17:50:48 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:10:48 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:10:49 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:11:18 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:11:18 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:11:39 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:11:39 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:12:33 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:12:33 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:12:53 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:12:53 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:14:06 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:14:06 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:16:58 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:16:59 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:22:23 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:22:23 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:23:11 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:23:11 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:23:11 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:23:11 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:23:11 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:23:11 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:23:11 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:23:11 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:23:11 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:23:12 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:23:12 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:35:09 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:35:09 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:35:09 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:35:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:35:09 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:35:09 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:35:09 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:35:09 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:35:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:35:09 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:35:09 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:35:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:35:09 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:35:09 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:35:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:35:09 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:35:09 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:35:09 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:37:36 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:37:36 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:37:36 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:37:36 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:37:36 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:37:36 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:37:37 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:37:37 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:37:37 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:37:37 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:37:37 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:37:37 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:37:37 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:37:37 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:37:37 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:37:37 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:37:37 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:37:37 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:47:38 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:47:38 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:47:38 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:47:38 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:47:38 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:47:38 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:47:38 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:47:38 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 18:47:38 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:47:38 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 18:47:39 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:47:39 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:47:39 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 18:47:39 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 18:47:39 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 18:47:39 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 18:47:39 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 18:47:39 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 19:54:53 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 19:54:53 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 19:54:53 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 19:54:53 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 19:54:53 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 19:54:53 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 19:54:53 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 19:54:53 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 19:54:53 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 19:54:53 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 19:54:54 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 19:54:54 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 19:54:54 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 19:54:54 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 19:54:54 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 19:54:54 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 19:54:54 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 19:54:54 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:20:32 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:20:32 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:20:32 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:20:32 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:20:32 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:20:32 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:20:32 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:20:32 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:20:32 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:20:32 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:20:32 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:20:32 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:20:32 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:20:32 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:20:32 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:20:32 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:20:32 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:20:32 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:22:43 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:22:43 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:22:43 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:22:43 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:22:43 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:22:43 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:22:43 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:22:44 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:22:44 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:22:44 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:22:44 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:22:44 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:22:44 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:22:44 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:22:44 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:22:44 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:22:44 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:22:44 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:25:35 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:25:35 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:25:36 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:25:36 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:25:36 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:25:36 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:25:36 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:25:36 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:25:36 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:25:36 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:25:36 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:25:36 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:25:36 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:25:36 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:25:36 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:25:36 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:25:36 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:25:36 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:26:08 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:26:08 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:26:08 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:26:08 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:26:08 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:26:08 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:26:08 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:26:09 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:26:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:26:09 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:26:09 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:26:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:26:09 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:26:09 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:26:09 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:26:09 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:26:09 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:26:09 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:27:22 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:27:22 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:27:23 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:27:23 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:27:23 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:27:23 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:27:23 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:27:23 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:27:23 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:27:23 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:27:23 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:27:23 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:27:23 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:27:23 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:27:23 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:27:23 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:27:23 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:27:23 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:30:14 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:30:14 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:30:14 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:30:14 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:30:14 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:30:14 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:30:14 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:30:14 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:30:14 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:30:14 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:30:15 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:30:15 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:30:15 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:30:15 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:30:15 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:30:15 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:30:15 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:30:15 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:32:50 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:32:50 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:32:50 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:32:50 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:32:50 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:32:50 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:32:50 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:32:50 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:32:50 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:32:50 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:32:50 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:32:50 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:32:50 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:32:50 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:32:51 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:32:51 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:32:51 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:32:51 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:37:52 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:37:52 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:37:52 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:37:52 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:37:52 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:37:52 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:37:52 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:37:52 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:37:52 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:37:52 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:37:52 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:37:52 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:37:52 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:37:52 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:37:52 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:37:52 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:37:52 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:37:52 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:39:39 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:39:39 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:39:39 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:39:39 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:39:39 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:39:39 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:39:39 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:39:39 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:39:39 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:39:39 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:39:39 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:39:39 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:39:39 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:39:39 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:39:39 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:39:40 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:39:40 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:39:40 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:43:25 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:43:25 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:43:26 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:43:26 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:43:26 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:43:26 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:43:26 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:43:26 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:43:26 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:43:26 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:43:26 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:43:26 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:43:26 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:43:26 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:43:26 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:43:26 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:43:26 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:43:26 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:45:57 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:45:57 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:45:57 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:45:57 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:45:57 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:45:58 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:45:58 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:45:58 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:45:58 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:45:58 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:45:58 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:45:58 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:45:58 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:45:58 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:45:58 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:45:58 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:45:58 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:45:58 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:47:01 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:47:01 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:47:01 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:47:01 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:47:01 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:47:01 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:47:01 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:47:01 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:47:02 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:47:02 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:47:02 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:47:02 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:47:02 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:47:02 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:47:02 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:47:02 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:47:02 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:47:02 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:49:10 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:49:10 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:49:10 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:49:10 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:49:10 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:49:11 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:49:11 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:49:11 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:49:11 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:49:11 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:49:11 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:49:11 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:49:11 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:49:11 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:49:11 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:49:11 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:49:11 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:49:11 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:51:37 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:51:37 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:51:37 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:51:37 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:51:37 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:51:37 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:51:37 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:51:37 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:51:37 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:51:37 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:51:38 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:51:38 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:51:38 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:51:38 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:51:38 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:51:38 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:51:38 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:51:38 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:53:57 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 20:53:57 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:53:57 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 20:53:58 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:53:58 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:53:58 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 20:53:58 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 20:53:58 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 20:53:58 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 20:53:58 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 20:53:58 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 21:10:47 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 21:10:47 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:10:47 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 21:10:47 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 21:10:47 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:10:47 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
+2021-02-21 21:10:47 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 21:10:47 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:10:47 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 21:10:48 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 21:10:48 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 21:13:49 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 21:13:49 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 21:13:49 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 21:13:49 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:13:49 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 21:13:49 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 21:13:49 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:13:49 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 21:13:49 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:13:49 ERROR CarDaoIml:153 - GET ALL CARS EXCEPTION: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 9 OFFSET 0' at line 1
+2021-02-21 21:13:49 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 21:13:49 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 21:13:49 ERROR UserDaoIml:43 - INSERT USER EXCEPTION: Duplicate entry '765765765' for key 'user.user_phone_uindex'
+2021-02-21 21:13:49 ERROR CarDaoIml:45 - INSERT CAR EXCEPTION: Duplicate entry 'name' for key 'car.car_name_uindex'
+2021-02-21 21:13:50 ERROR HistoryDaoIml:213 - DELETE HISTORY EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fine_history_id_fk` FOREIGN KEY (`historyID`) REFERENCES `history` (`id`))
+2021-02-21 21:13:50 ERROR UserDaoIml:368 - DELETE USER EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_user_id_fk` FOREIGN KEY (`userID`) REFERENCES `user` (`id`))
+2021-02-21 21:13:50 ERROR CarDaoIml:241 - DELETE CAR EXCEPTION: Cannot delete or update a parent row: a foreign key constraint fails (`bestcar`.`fine`, CONSTRAINT `fines_car_id_fk` FOREIGN KEY (`carID`) REFERENCES `car` (`id`))
+2021-02-21 21:13:50 INFO  ErrorServlet:27 - An attempt to enter an inaccessible page
